@@ -24,7 +24,7 @@ const galleryData = {
             concept: 'การแสดงออกถึงความฝันที่แตกสลายผ่านเทคนิคการแยกส่วนและประกอบใหม่ ด้วยการใช้สีที่คมชัดและรูปทรงที่ไม่สมดุล',
             image: 'https://images.unsplash.com/photo-1569701280402-dd2e7b9eeba9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600',
             category: 'cubism'
-        }
+        },
     ],
     popup: [
         {
