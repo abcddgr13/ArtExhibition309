@@ -671,14 +671,6 @@ const galleryData = {
             category: 'popart'
         },
         {
-            id: 'popart-3',
-            title: 'Consumer Culture',
-            artist: 'นายประชา วิพากษ์',
-            concept: 'วิจารณ์วัฒนธรรมการบริโภคผ่านการนำเสนอสินค้าและแบรนด์ในรูปแบบศิลปะป๊อป โดยเน้นการใช้สีและการทำซ้ำเพื่อสร้างผลกระทบทางสายตา',
-            image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600',
-            category: 'popart'
-        },
-        {
             id: 'popart-4',
             title: 'Celebrity Icons',
             artist: 'นางสาวจารุวรรณ ดารา',
