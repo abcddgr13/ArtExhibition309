@@ -3,10 +3,10 @@ const galleryData = {
     cubism: [
         {
             id: 'cubism-1',
-            title: 'Fragmented Reality', // best1
-            artist: 'นายสมชาย ศิลป์พิน',
-            concept: 'การสะท้อนความเป็นจริงผ่านมุมมองที่แตกต่างกัน ด้วยเทคนิค Cubism ที่นำเสนอภาพในหลายมิติ โดยการแบ่งแยกรูปร่างออกเป็นส่วนๆ แล้วนำมาประกอบใหม่ให้เกิดมิติใหม่ของการมองเห็น',
-            image: 'https://images.unsplash.com/photo-1541961017774-22349e4a1262?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600',
+            title: 'Shadow', // best1
+            artist: 'abcddgr',
+            concept: 'Shadow Test',
+            image: 'https://github.com/abcddgr13/ArtExhibition309/blob/a031129fe2a210d96886cdc05325c141d48977fb/5e2fb085-82d3-46a1-ba1d-881a4e976d0e.jpg',
             category: 'cubism'
         },
         {
