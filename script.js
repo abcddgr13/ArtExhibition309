@@ -6,7 +6,7 @@ const galleryData = {
             title: 'Shadow', // best1
             artist: 'abcddgr',
             concept: 'Shadow Test',
-            image: 'https://github.com/abcddgr13/ArtExhibition309/blob/a031129fe2a210d96886cdc05325c141d48977fb/5e2fb085-82d3-46a1-ba1d-881a4e976d0e.jpg',
+            image: 'https://github.com/abcddgr13/ArtExhibition309/a031129fe2a210d96886cdc05325c141d48977fb/5e2fb085-82d3-46a1-ba1d-881a4e976d0e.jpg',
             category: 'cubism'
         },
         {
