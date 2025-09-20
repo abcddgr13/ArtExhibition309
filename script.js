@@ -335,7 +335,7 @@ const galleryData = {
         {
             id: 'popup-2',
             title: 'Surprise Elements',
-            artist: 'นางสาวสุภาพร แปลกใหม่',
+            artist: ['test1', 'test2'],
             concept: 'การสร้างความประหลาดใจด้วยองค์ประกอบที่โผล่ออกมาจากผืนผ้าใบ เชิญชวนให้ผู้ชมได้สำรวจและค้นพบรายละเอียดที่ซ่อนเร้น',
             image: 'https://images.unsplash.com/photo-1586953208448-b95a79798f07?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=600',
             category: 'popup'
