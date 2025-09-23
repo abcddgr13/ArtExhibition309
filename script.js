@@ -155,9 +155,9 @@ const galleryData = {
         },
         {
             id: 'cubism-20',
-            title: 'Title 20',
+            title: 'No information',
             artist: 'เด็กหญิงธัญพิมล แสนใจพรม',
-            concept: 'Concept 20',
+            concept: 'No information',
             image: 'https://raw.github.com/abcddgr13/ArtExhibition309/ae0291f35dd068f44c9b1c967405a9f489dac52a/All%20images/Cubism%20Art/20.jpg',
             category: 'cubism'
         },
@@ -275,9 +275,9 @@ const galleryData = {
         },
         {
             id: 'cubism-35',
-            title: 'Title 35',
+            title: 'No information',
             artist: 'เด็กชายเมธัส แวอุมาร์',
-            concept: 'Concept 35',
+            concept: 'No information',
             image: 'https://raw.github.com/abcddgr13/ArtExhibition309/ae0291f35dd068f44c9b1c967405a9f489dac52a/All%20images/Cubism%20Art/35.jpg',
             category: 'cubism'
         },
@@ -682,7 +682,7 @@ const galleryData = {
             title: 'ขออภัย มือใหม่',
             artist: 'เด็กหญิงพิมพ์พิชชา ทองงาม',
             concept: 'เป็นผลงานศิลปะที่มีเอกลักษณ์อย่างหนึ่งของคนไทยที่คิดค้นขึ้นมา อาจเป็นชาติเดียวในโลกที่มีเลยก็ว่าได้ คนไทยมักนำสิ่งนี้ไปติดท้ายรถเพื่อสื่อให้คนที่พบเห็นได้ทราบว่าผู้ขับนั้นเป็นมือใหม่',
-            image: 'https://raw.githubusercontent.com/abcddgr13/ArtExhibition309/2ea4a8bfcf6913058422f6b0f60fce5dfd7adc15/All%20images/Pop-art/25.jpg',
+            image: 'https://raw.github.com/abcddgr13/ArtExhibition309/c14a5d959433e452c530450e8badf0c201e01d74/All%20images/Pop-art/Messenger_creation_E88052D7-BC96-428D-AED6-7C89B49AF15A.jpeg',
             category: 'popart'
         },
         {
